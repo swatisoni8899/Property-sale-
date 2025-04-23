@@ -1,2 +1,2 @@
-# Property-sale-
+# Property-sale
 ML model
